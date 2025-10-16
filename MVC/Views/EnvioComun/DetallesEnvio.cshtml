@@ -1,0 +1,71 @@
+﻿@model MVC.Models.Envios.DatoEnvioCompletoViewModel
+
+@{
+    ViewData["Title"] = "DetallesEnvio";
+}
+
+<h1>DetallesEnvio</h1>
+
+<div><br />
+    <hr />
+    <h4>Código de envio: @Model.NroTracking</h4>
+    <dl class="row">
+        <table>
+            <tr>
+                <th>ID</th>
+                <td>@Model.Id</td>
+            </tr>
+            <tr>
+                <th>Número de Tracking</th>
+                <td>@Model.NroTracking</td>
+            </tr>
+            <tr>
+                <th>ID Empleado</th>
+                <td>@Model.EmpleadoId</td>
+            </tr>
+            <tr>
+                <th>ID Cliente</th>
+                <td>@Model.ClienteId</td>
+            </tr>
+            <tr>
+                <th>Peso</th>
+                <td>@Model.Peso</td>
+            </tr>
+            <tr>
+                <th>Estado</th>
+                <td>@Model.Estado</td>
+            </tr>
+        </table>
+        <hr />
+        <h3 style="margin-top:50px">Comentarios</h3>
+
+        @if (Model.Comentarios != null && Model.Comentarios.Any())
+        {
+            <table border="1px solid black">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Texto</th>
+                        <th>Fecha</th>
+                        <th>Email</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var comentario in Model.Comentarios)
+                    {
+                        <tr>
+                            <td>@comentario.Id</td>
+                            <td>@comentario.Texto</td>
+                            <td>@comentario.Fecha.ToString()</td>
+                            <td>@comentario.Email</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>No hay comentarios para mostrar.</p>
+        }
+    </dl>
+</div>

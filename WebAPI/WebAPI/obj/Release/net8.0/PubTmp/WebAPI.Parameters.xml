@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WebAPI20250626090812" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\pietr\\OneDrive\\Escritorio\\Obligatorio\ 2\ P3\ Final\\Obligatorio\ P3\ 318802-342304\\Obligatorio\ separado\\WebAPI\\WebAPI\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

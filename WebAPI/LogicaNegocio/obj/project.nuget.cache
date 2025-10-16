@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lmby9ECHpxk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pietr\\OneDrive\\Escritorio\\Obligatorio 2 P3 318802-342304\\Soluciones\\WebAPI\\LogicaNegocio\\LogicaNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pietr\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

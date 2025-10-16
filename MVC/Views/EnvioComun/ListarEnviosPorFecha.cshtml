@@ -1,0 +1,63 @@
+﻿@model IEnumerable<MVC.Models.Envios.EnvioClienteViewModel>
+
+@{
+    ViewData["Title"] = "ListarEnviosPorFecha";
+}
+
+@ViewBag.Mensaje
+
+<h1>ListarEnviosPorFecha</h1>
+<p>
+    <a asp-action="FiltrarEnviosPorFecha">Volver al buscador</a>
+</p>
+@if(Model.Count() > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.NroTracking)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Peso)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Fecha)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Estado)
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NroTracking)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Peso)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Fecha)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Estado)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+} else
+{
+    <p>No se encontraron envios con esas condiciones.</p>
+}
+
+

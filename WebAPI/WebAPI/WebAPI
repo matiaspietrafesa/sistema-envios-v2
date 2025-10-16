@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI.Controllers.CarreraController.Post(Compartido.DTOs.Carreras.CarreraDTO)">
+            <summary>
+            Permite dar de alta una nueva carrera
+            </summary>
+            <param name="carreraDTO"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

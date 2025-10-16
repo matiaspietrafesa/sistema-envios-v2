@@ -1,0 +1,17 @@
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\bin\Release\net8.0\Compartido.deps.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\bin\Release\net8.0\Compartido.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\bin\Release\net8.0\Compartido.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\bin\Release\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\bin\Release\net8.0\LogicaNegocio.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\bin\Release\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\bin\Release\net8.0\LogicaNegocio.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\obj\Release\net8.0\Compartido.csproj.AssemblyReference.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\obj\Release\net8.0\Compartido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\obj\Release\net8.0\Compartido.AssemblyInfoInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\obj\Release\net8.0\Compartido.AssemblyInfo.cs
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\obj\Release\net8.0\Compartido.csproj.CoreCompileInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\obj\Release\net8.0\Compartido.csproj.Up2Date
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\obj\Release\net8.0\Compartido.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\obj\Release\net8.0\refint\Compartido.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\obj\Release\net8.0\Compartido.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\Compartido\obj\Release\net8.0\ref\Compartido.dll

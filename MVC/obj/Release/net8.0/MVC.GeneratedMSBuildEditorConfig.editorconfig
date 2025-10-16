@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC
+build_property.RootNamespace = MVC
+build_property.ProjectDir = C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\MVC
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/EnvioComun/BuscarPorTracking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW52aW9Db211blxCdXNjYXJQb3JUcmFja2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/EnvioComun/DetallesEnvio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW52aW9Db211blxEZXRhbGxlc0VudmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/EnvioComun/FiltrarEnviosPorComentario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW52aW9Db211blxGaWx0cmFyRW52aW9zUG9yQ29tZW50YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/EnvioComun/FiltrarEnviosPorFecha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW52aW9Db211blxGaWx0cmFyRW52aW9zUG9yRmVjaGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/EnvioComun/ListarComentariosDeEnvio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW52aW9Db211blxMaXN0YXJDb21lbnRhcmlvc0RlRW52aW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/EnvioComun/ListarEnviosDeCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW52aW9Db211blxMaXN0YXJFbnZpb3NEZUNsaWVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/EnvioComun/ListarEnviosPorComentario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW52aW9Db211blxMaXN0YXJFbnZpb3NQb3JDb21lbnRhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/EnvioComun/ListarEnviosPorFecha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW52aW9Db211blxMaXN0YXJFbnZpb3NQb3JGZWNoYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/Usuario/CambiarPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDYW1iaWFyUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/Usuario/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pietr/OneDrive/Escritorio/Obligatorio 2 P3 Final/Obligatorio P3 318802-342304/Obligatorio separado/MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q0a04yuu0e

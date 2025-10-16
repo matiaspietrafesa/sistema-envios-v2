@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>WebAPI</name>
+	</assembly>
+	<members>
+		<!-- Clase -->
+		<member name="T:WebAPI.Controllers.EnvioController">
+			<summary>
+				Maneja las consultas sobre envios.
+			</summary>
+		</member>
+
+		<!-- Get(int codTracking) -->
+		<member name="M:WebAPI.Controllers.EnvioController.Get(System.Int32)">
+			<summary>
+				Obtiene un envío por su número de tracking.
+			</summary>
+			<param name="codTracking">
+				Número de tracking del envío (debe ser mayor que 0).
+			</param>
+			<returns>
+				Objeto correspondiente al número de tracking especificado.
+			</returns>
+		</member>
+
+		<!-- Get(string email) -->
+		<member name="M:WebAPI.Controllers.EnvioController.Get(System.String)">
+			<summary>
+				Lista todos los envíos asociados a un cliente.
+			</summary>
+			<param name="email">
+				Email del cliente (no puede ser nulo ni vacío).
+			</param>
+			<returns>
+				Lista de los envios del cliente indicado.
+			</returns>
+		</member>
+
+		<!-- Get(string email, int idEnvio) -->
+		<member name="M:WebAPI.Controllers.EnvioController.Get(System.String,System.Int32)">
+			<summary>
+				Obtiene los comentarios de un envío específico de un cliente.
+			</summary>
+			<param name="email">
+				Email del cliente (no puede ser nulo ni vacío).
+			</param>
+			<param name="idEnvio">
+				Identificador del envío (debe ser mayor que 0).
+			</param>
+			<returns>
+				Lista de los comentarios asociados al envío.
+			</returns>
+		</member>
+
+		<!-- Get(string email, DateTime desde, DateTime hasta, string estado) -->
+		<member name="M:WebAPI.Controllers.EnvioController.Get(System.String,System.DateTime,System.DateTime,System.String)">
+			<summary>
+				Lista los envíos de un cliente dentro de un rango de fechas y opcionalmente por estado.
+			</summary>
+			<param name="email">
+				Email del cliente (no puede ser nulo ni vacío).
+			</param>
+			<param name="desde">
+				Fecha de inicio del rango.
+			</param>
+			<param name="hasta">
+				Fecha de fin del rango.
+			</param>
+			<param name="estado">
+				Estado del envío (opcional).
+			</param>
+			<returns>
+				Lista de los envios que cumplen los criterios.
+			</returns>
+		</member>
+
+		<!-- Get(string email, string palabra) -->
+		<member name="M:WebAPI.Controllers.EnvioController.Get(System.String,System.String)">
+			<summary>
+				Lista los envíos de un cliente cuyos comentarios contienen una palabra clave.
+			</summary>
+			<param name="email">
+				Email del cliente (no puede ser nulo ni vacío).
+			</param>
+			<param name="palabra">
+				Palabra clave para filtrar comentarios (no puede ser nula ni vacía).
+			</param>
+			<returns>
+				Lista de envios cuyos comentarios incluyen la palabra clave.
+			</returns>
+		</member>
+		<member name="M:WebAPI.Controllers.UsuarioController.Login(Compartido.DTOs.Usuarios.UsuarioDTO)">
+			<summary>
+				Permite loguearse en el sistema y obtiene un token JWT válido.
+			</summary>
+			<param name="usuarioDTO">
+				Datos de acceso: email y contraseña.
+			</param>
+			<returns>
+				Objeto <see cref="UsuarioLogueadoDTO"/> que incluye información del usuario y su token.
+			</returns>
+			<response code="200">Login exitoso. Devuelve datos del usuario y token.</response>
+			<response code="400">Datos de entrada inválidos o credenciales incorrectas.</response>
+			<response code="404">Usuario no encontrado.</response>
+			<response code="500">Error interno del servidor.</response>
+		</member>
+
+		<member name="M:WebAPI.Controllers.UsuarioController.CambiarContrasenia(Compartido.DTOs.Usuarios.CambioContraseniaDTO)">
+			<summary>
+				Permite al cliente autenticado actualizar su contraseña.
+			</summary>
+			<param name="cambioDTO">
+				DTO que contiene la contraseña actual y la nueva contraseña.
+			</param>
+			<returns>
+				Confirma que el cambio fue realizado con exito.
+			</returns>
+			<response code="200">Contraseña cambiada correctamente.</response>
+			<response code="400">Datos de entrada inválidos.</response>
+			<response code="404">Usuario no encontrado.</response>
+			<response code="500">Error interno del servidor.</response>
+		</member>
+	</members>
+</doc>

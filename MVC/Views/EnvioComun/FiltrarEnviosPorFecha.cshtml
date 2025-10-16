@@ -1,0 +1,49 @@
+﻿@model MVC.Models.FiltroEnvioPorFecha
+
+@{
+    ViewData["Title"] = "FiltrarEnviosPorFecha";
+}
+
+<h1>FiltrarEnviosPorFecha</h1>
+
+<h4>FiltroEnvioPorFecha</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ListarEnviosPorFecha">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Desde" class="control-label"></label>
+                <input asp-for="Desde" type="date" class="form-control" name="desde"/>
+                <span asp-validation-for="Desde" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Hasta" class="control-label"></label>
+                <input asp-for="Hasta" type="date" class="form-control" name="hasta" />
+                <span asp-validation-for="Hasta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Estado" class="control-label"></label>
+                @* <input asp-for="Estado" class="form-control" name="estado"/> *@
+                <span asp-validation-for="Estado" class="text-danger"></span>
+
+                <select name="Estado">
+                    <option value="ALL">Seleccione un estado</option>
+                    <option value="FINALIZADO">Envios finalizados</option>
+                    <option value="EN_PROCESO">Envios en proceso</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Buscar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

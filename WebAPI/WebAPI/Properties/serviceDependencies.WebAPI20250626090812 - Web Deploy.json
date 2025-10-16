@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('serviceConnectorResourceGroupName')]/providers/Microsoft.Web/sites/WebAPI20250626090812/providers/Microsoft.ServiceLinker/linkers/ConnectionStringscadenaConexion1_C7E0AF94C6",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/obligatorio2p3server/databases/Obligatorio2P3DB",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:cadenaConexion1",
+      "dynamicId": null
+    }
+  }
+}

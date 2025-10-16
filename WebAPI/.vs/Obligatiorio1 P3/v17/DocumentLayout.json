@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pietr\\OneDrive\\Escritorio\\Obligatorio 2 P3 318802-342304\\Soluciones\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1590704B-C952-40D3-80A6-5931286D0554}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|c:\\users\\pietr\\onedrive\\escritorio\\obligatorio 2 p3 318802-342304\\soluciones\\webapi\\logicaaccesodatos\\repositorios\\repositorioenvios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1590704B-C952-40D3-80A6-5931286D0554}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|solutionrelative:logicaaccesodatos\\repositorios\\repositorioenvios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{521DF097-378D-4001-AAF0-DCC5FA3DA7EC}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\pietr\\onedrive\\escritorio\\obligatorio 2 p3 318802-342304\\soluciones\\webapi\\logicaaplicacion\\implementacioncasosuso\\envios\\listarenviosporfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521DF097-378D-4001-AAF0-DCC5FA3DA7EC}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\implementacioncasosuso\\envios\\listarenviosporfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositorioEnvios.cs",
+              "DocumentMoniker": "C:\\Users\\pietr\\OneDrive\\Escritorio\\Obligatorio 2 P3 318802-342304\\Soluciones\\WebAPI\\LogicaAccesoDatos\\Repositorios\\RepositorioEnvios.cs",
+              "RelativeDocumentMoniker": "LogicaAccesoDatos\\Repositorios\\RepositorioEnvios.cs",
+              "ToolTip": "C:\\Users\\pietr\\OneDrive\\Escritorio\\Obligatorio 2 P3 318802-342304\\Soluciones\\WebAPI\\LogicaAccesoDatos\\Repositorios\\RepositorioEnvios.cs",
+              "RelativeToolTip": "LogicaAccesoDatos\\Repositorios\\RepositorioEnvios.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:57:15.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListarEnviosPorFecha.cs",
+              "DocumentMoniker": "C:\\Users\\pietr\\OneDrive\\Escritorio\\Obligatorio 2 P3 318802-342304\\Soluciones\\WebAPI\\LogicaAplicacion\\ImplementacionCasosUso\\Envios\\ListarEnviosPorFecha.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCasosUso\\Envios\\ListarEnviosPorFecha.cs",
+              "ToolTip": "C:\\Users\\pietr\\OneDrive\\Escritorio\\Obligatorio 2 P3 318802-342304\\Soluciones\\WebAPI\\LogicaAplicacion\\ImplementacionCasosUso\\Envios\\ListarEnviosPorFecha.cs",
+              "RelativeToolTip": "LogicaAplicacion\\ImplementacionCasosUso\\Envios\\ListarEnviosPorFecha.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:56:35.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

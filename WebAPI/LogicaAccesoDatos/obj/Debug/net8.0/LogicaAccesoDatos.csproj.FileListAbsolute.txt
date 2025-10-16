@@ -1,0 +1,221 @@
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.deps.json
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAc.5A0EF2D8.Up2Date
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\obj\Debug\net8.0\refint\LogicaAccesoDatos.dll
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\pietr\Desktop\Obligatiorio1 P3 Matias Pietrafesa\LogicaAccesoDatos\obj\Debug\net8.0\ref\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.deps.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAc.5A0EF2D8.Up2Date
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\obj\Debug\net8.0\refint\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3\Obligatiorio1 P3\LogicaAccesoDatos\obj\Debug\net8.0\ref\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.deps.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAc.5A0EF2D8.Up2Date
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\refint\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 1 P3 318802-342304\19-05\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\ref\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.deps.json
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAc.5A0EF2D8.Up2Date
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\refint\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\pietr\OneDrive\Escritorio\E-214402-0\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\ref\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.deps.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAc.5A0EF2D8.Up2Date
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\refint\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Implementacion\LogicaAccesoDatos\obj\Debug\net8.0\ref\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.deps.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAc.5A0EF2D8.Up2Date
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\refint\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\ref\LogicaAccesoDatos.dll
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.deps.json
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.runtimeconfig.json
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.dll
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.pdb
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.dll
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfo.cs
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAc.5A0EF2D8.Up2Date
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.dll
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\refint\LogicaAccesoDatos.dll
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.pdb
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.genruntimeconfig.cache
+D:\Users\Gaston\Desktop\pietrafesa05-05\Obligatorio2-22-6\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\ref\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.deps.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAc.5A0EF2D8.Up2Date
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\refint\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\ref\LogicaAccesoDatos.dll
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.deps.json
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAc.5A0EF2D8.Up2Date
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\refint\LogicaAccesoDatos.dll
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\pietr\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\ref\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.deps.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAc.5A0EF2D8.Up2Date
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\refint\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio P3 318802-342304\obligatorio final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\ref\LogicaAccesoDatos.dll
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.deps.json
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAc.5A0EF2D8.Up2Date
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\refint\LogicaAccesoDatos.dll
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\alumnoFI\Desktop\Obligatorio P3 318802-342304\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\ref\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.deps.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAc.5A0EF2D8.Up2Date
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\refint\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 Final\Obligatorio P3 318802-342304\Obligatorio separado\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\ref\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.deps.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.runtimeconfig.json
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAc.5A0EF2D8.Up2Date
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\refint\LogicaAccesoDatos.dll
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.pdb
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\LogicaAccesoDatos.genruntimeconfig.cache
+C:\Users\pietr\OneDrive\Escritorio\Obligatorio 2 P3 318802-342304\Soluciones\WebAPI\LogicaAccesoDatos\obj\Debug\net8.0\ref\LogicaAccesoDatos.dll

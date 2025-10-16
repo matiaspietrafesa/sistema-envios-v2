@@ -1,0 +1,64 @@
+﻿@model IEnumerable<MVC.Models.Envios.EnvioClienteViewModel>
+
+@ViewBag.Mensaje
+
+@{
+    ViewData["Title"] = "ListarEnviosDeCliente";
+}
+
+<h1>ListarEnviosDeCliente</h1>
+
+@if (Model.Count() > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.NroTracking)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Peso)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Fecha)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Estado)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NroTracking)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Peso)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Fecha)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Estado)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Seguimiento", "ListarComentariosDeEnvio", new { id = item.Id })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+} else
+{
+    <p>No hay envios registrados con tu cuenta.</p>
+}
+
